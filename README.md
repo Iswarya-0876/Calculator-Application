@@ -22,10 +22,6 @@ A modern Calculator Application developed using Kotlin and XML in Android Studio
 * MVC Architecture
 * Event Handling in Kotlin
 
-## 📸 Screenshots
-
-(Add your screenshots here)
-
 ## 👩‍💻 Developer
 
 Iswarya V
